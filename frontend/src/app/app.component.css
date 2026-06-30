@@ -1,0 +1,13 @@
+.app {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+.app__header h1 {
+  margin: 0 0 1.5rem;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+/* TODO: search bar, card grid (auto-fill, minmax 250px), cards, loading, error */
